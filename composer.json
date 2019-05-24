@@ -1,0 +1,28 @@
+{
+    "name": "iamproperty/laravel-tal",
+    "description": "A basic PHP directory project structure",
+    "type": "library",
+    "authors": [
+        {
+            "name": "James Fenwick",
+            "email": "james.fenwick@iamproperty.com"
+        }
+    ],
+    "license": "proprietary",
+    "require-dev": {
+        "phpunit/phpunit": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "IAMProperty\\LaravelTal\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\LaravelTal\\": "test/"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
