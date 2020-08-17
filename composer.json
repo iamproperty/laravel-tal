@@ -1,6 +1,6 @@
 {
     "name": "iamproperty/laravel-tal",
-    "description": "A basic PHP directory project structure",
+    "description": "TAL (Template Attribute Language) template engine for Laravel",
     "type": "library",
     "authors": [
         {
@@ -8,7 +8,7 @@
             "email": "james.fenwick@iamproperty.com"
         }
     ],
-    "license": "proprietary",
+    "license": "MITy",
     "require": {
         "illuminate/support": "^5.8",
         "phptal/phptal": "^1.4"
