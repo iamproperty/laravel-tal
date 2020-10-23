@@ -8,7 +8,7 @@
             "email": "james.fenwick@iamproperty.com"
         }
     ],
-    "license": "MITy",
+    "license": "MIT",
     "require": {
         "illuminate/support": "^5.8",
         "phptal/phptal": "^1.4"
